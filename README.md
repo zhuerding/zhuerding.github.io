@@ -16,7 +16,7 @@
   [6.miRDB查询](#title6)  
   [7.TargetScan查询](#title7)  
   [8.mirDIP查询](#title8)  
-  [9.mirDIP查询](#title9)  
+  [9.Tarbase查询](#title9)  
   [10.韦恩图交集](#title10)  
 - 四、[导出文件](#index4)  
 - 五、[配置文件](#index5)
