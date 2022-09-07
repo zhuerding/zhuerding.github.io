@@ -1,6 +1,6 @@
 # Gene Weaver
 ## 基因编织
-#### 当前版本：***V 1.6.0***  [更新日志](./update.log)  [下载](./Gene Weaver setup.exe)
+#### 当前版本：***V 1.6.0***  [更新日志](./update.log)  [下载](./Gene Weaver setup.exe)  
 ######  （使用时尽量使用外置代理，以便更快的采集数据）
 
 ---
