@@ -165,8 +165,8 @@
 - ### <span id='title10'>韦恩图生成</span>  
   ***此步不需要操作，仅说明原理***  
   根据米娜桑填写的`venn`值，程序会将在各个数据库中查询到的高可能性靶蛋白取交集，并生成韦恩图和交集表格。  
-![四交集韦恩图](picture/venn.png)  
-![五交集韦恩图](picture/venn.svg)  
+![四交集韦恩图](venn.png)  
+![五交集韦恩图](venn.svg)  
 ## <span id='index4'>四、导出文件</span>   
   本程序具有多种导出文件的能力，因为导出文件较多故单独列出一章节解析。
 
@@ -250,7 +250,7 @@
 - 因为代理设置导致的问题  
   本程序**推荐**在连接代理的情况下使用，这样可以更快的获取到数据，为避免在没有设置代理的情况下，因访问过慢而失败，本程序设置了多次重新请求的功能，但是如果在出现提示`已查询到X/XXX`或`开始查询XXX`后**30秒**没有出现想要的数据，建议米娜桑`Ctrl+c`主动退出程序重试……  
   如果在挂外置代理的时候出现浏览器可以访问网页，而程序报错的情况，请打开`Clash for windows`左侧栏`setting`下`System Proxy`中的`Specify Protocol`，使其变成绿色。  
-![Clash for Windows](picture/clash.png)  
+![Clash for Windows](clash.png)  
   [Clash for Windows下载](https://github.com/Fndroid/clash_for_windows_pkg)  
 - 其他Bug  
   等待反馈ing
@@ -270,7 +270,7 @@
  3.0版本  
   - 程序进行重构，使得程序完全R语言化，进一步提高分析能力
 ## <span id='index7'>八、声明与感谢</span>  
-  程序作者：**zhuerding**（一个**胡桃厨**）![](picture/hutao.jpg)  
+  程序作者：**zhuerding**（一个**胡桃厨**）![](hutao.jpg)  
   本程序遵循**GNU（GNU General Public License）通用公共许可协议**，源代码及其衍生代码的开源且免费使用并可以引用、修改，但不允许修改后和衍生的代码做为闭源的商业软件发布和销售。希望其他基于本程序开发的同学们遵守该协议。  
     这个程序开发过程中感谢**潍坊医学院**黄孟栋同学帮助~  
     以及感谢B站、Github、CSDN一些博主，他们提供的一些代码和思路对这个程序的开发有很大帮助。
